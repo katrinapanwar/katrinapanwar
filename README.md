@@ -33,5 +33,5 @@ Integrated REST APIs and optimized front-end performance for faster load times.
 Collaborated in an Agile team to design and deliver new product features.
 
 👋🏻 **Connect with Me**
-- [LinkedIn Profile](https://www.linkedin.com/in/katrina-panwar/)
+- [LinkedIn](https://www.linkedin.com/in/katrina-panwar/)
 
